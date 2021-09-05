@@ -38,5 +38,4 @@ O projeto consiste das seguintes fases:
    9.1 OBS: o destino varia do windows para o linux mas é so encontrar onde está a pasta e fazer o caminho igual o exemplo.
 10. Após executar o comando o programa ira funcionar e analisar e ordenar os dados, onde devem ser criados na pasta de CovidAnalyser>data>dadosfinais, os quais possuem todas as ordenações e os 3 tipos por nome/casos/obitos, além do arquivo tempos.txt marcando o tempo de execução dos algoritmos.
 
-OBS: Caso apos executar o comando o programa não encontrar o arquivo deve ser por causa da sua  variável de ambiente JAVA_HOME não está setada no PATH para resolver so olhar o site no [windows](https://www.oobj.com.br/bc/article/como-configurar-a-variável-de-ambiente-java_home-windows-29.html) no [lunix](https://receitasdecodigo.com.br/ubuntu/como-configurar-java_home-para-java-no-ubuntu).
-   
+OBS: Caso apos executar o comando o programa não encontrar o arquivo deve ser por causa da sua  variável de ambiente JAVA_HOME não está setada no PATH para resolver so olhar o site no [windows](https://www.oobj.com.br/bc/article/como-configurar-a-variável-de-ambiente-java_home-windows-29.html) 
